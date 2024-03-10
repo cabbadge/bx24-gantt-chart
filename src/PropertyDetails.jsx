@@ -66,5 +66,5 @@ const PropertyDetails = ({ isVisible, onClose, itemDetails, fieldsInfo }) => {
     </Modal>
   );
 };
-
+// test 
 export default PropertyDetails;
